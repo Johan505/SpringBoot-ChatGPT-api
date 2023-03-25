@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OpenaiApplication<openai>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.openai.openai.OpenaiApplication",
+            "projectName": "openai",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
